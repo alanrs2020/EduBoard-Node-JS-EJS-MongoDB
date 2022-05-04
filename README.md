@@ -11,3 +11,4 @@ EduBoard is a Modern Learning Mangement Sysytem enhanced by AI.It has number of 
 ![Alt text](screenshots/page4.JPG)
 ![Alt text](screenshots/page5.JPG)
 ![Alt text](screenshots/page6.JPG)
+![Alt text](screenshots/page7.JPG)
